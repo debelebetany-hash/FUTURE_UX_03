@@ -1,39 +1,55 @@
+# B2B Real Estate Dashboard UI
 
-#🏠 Real Estate B2B Dashboard UI
+Simple and clean dashboard design for a B2B real estate company.
+This design helps businesses manage clients, properties, and daily tasks easily.
 
-Simple Figma-style UI design for a Real Estate B2B Client Management Dashboard.
-The dashboard helps agencies manage buyer leads, property listings, sales pipeline, and follow-up tasks in one clean interface.
+## Features
 
-## 📌 Features
+- Dashboard overview with key information
+- Leads management section
+- Properties listing section
+- Task management dashboard
+- Simple and modern UI layout
 
-- 📊 Dashboard Overview – Quick view of leads, properties, and tasks
-- 👥 Leads Management – Track potential buyers and their status
-- 🏡 Properties Section – View and manage available property listings
-- 🔄 Sales Pipeline – Visual flow from inquiry to closed deal
-- ✅ Task Tracker – Manage follow-ups, meetings, and reminders
+## Sections
 
-## 🎯 Purpose
+### Dashboard
+Shows summary of business performance, recent activity, and quick statistics.
 
-Designed to improve workflow efficiency for real estate teams by organizing client and property data in a clear and simple dashboard layout.
+### Leads
+Manage potential clients and track their interest in properties.
+
+### Properties
+View and organize available real estate properties for sale or rent.
+
+### Tasks
+Track daily work, follow-ups, and team activities.
+
+## Tools Used
+
+- Figma
+- UI/UX Design principles
 
 ## 📸 Design Preview
 
-### Dashboard Home
+### Dashboard
+![Dashboard](screenshot(90).png)
 
-![Dashboard] (Screenshot(90).png)
+### Leads Section
+![Leads](screenshot(91).png)
 
-### Leads Page
+### Properties Section
+![Properties](screenshot(92).png)
 
-"Leads" (Screenshot (91).png)
+### Task Section
+![Task](screenshot(93).png)
 
-### Properties Page
+## Purpose
 
-"Properties" (Screeshot (92).png)
+Practice project for designing a simple B2B real estate dashboard interface.
 
-### Tasks Page
+## Author
 
-"Tasks" (Screenshot (93).png)
-
-🛠 Tools
-
-- Figma (UI Design) /https://www.figma.com/design/1voUjUjHuyLEVdjogvitvP/Real-state-Dash-board?node-id=0-1&p=f&t=SreY3IVY3ICI9SPb-0/
+UI/UX Designer focused on clean and user-friendly dashboard design.
+Tool
+Figma/ https://www.figma.com/design/1voUjUjHuyLEVdjogvitvP/Real-state-Dash-board?node-id=0-1&p=f&t=SreY3IVY3ICI9SPb-0 /
