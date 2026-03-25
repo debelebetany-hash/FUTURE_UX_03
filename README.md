@@ -1,10 +1,10 @@
-# FUTURE_UX_03
-🏠 Real Estate B2B Dashboard UI
+
+#🏠 Real Estate B2B Dashboard UI
 
 Simple Figma-style UI design for a Real Estate B2B Client Management Dashboard.
 The dashboard helps agencies manage buyer leads, property listings, sales pipeline, and follow-up tasks in one clean interface.
 
-📌 Features
+## 📌 Features
 
 - 📊 Dashboard Overview – Quick view of leads, properties, and tasks
 - 👥 Leads Management – Track potential buyers and their status
@@ -12,25 +12,25 @@ The dashboard helps agencies manage buyer leads, property listings, sales pipeli
 - 🔄 Sales Pipeline – Visual flow from inquiry to closed deal
 - ✅ Task Tracker – Manage follow-ups, meetings, and reminders
 
-🎯 Purpose
+## 🎯 Purpose
 
 Designed to improve workflow efficiency for real estate teams by organizing client and property data in a clear and simple dashboard layout.
 
-📸 Design Preview
+## 📸 Design Preview
 
-Dashboard Home
+### Dashboard Home
 
 "Dashboard" (Screenshot(90).png)
 
-Leads Page
+### Leads Page
 
 "Leads" (Screenshot(91).png)
 
-Properties Page
+### Properties Page
 
 "Properties" (Screeshot(92).png)
 
-Tasks Page
+### Tasks Page
 
 "Tasks" (Screenshot(93).png)
 
