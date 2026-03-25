@@ -28,21 +28,7 @@ Track daily work, follow-ups, and team activities.
 ## Tools Used
 
 - Figma
-- UI/UX Design principles
-
-## 📸 Design Preview
-
-### Dashboard
-![Dashboard](Screenshot(90).png)
-
-### Leads Section
-![Leads](Screenshot(91).png)
-
-### Properties Section
-![Properties](Screenshot(92).png)
-
-### Task Section
-![Task](Task.png)
+- UI/UX Design principle
 
 ## Purpose
 
