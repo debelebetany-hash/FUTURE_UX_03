@@ -42,7 +42,7 @@ Track daily work, follow-ups, and team activities.
 ![Properties](screenshot(92).png)
 
 ### Task Section
-![Task](screenshot(93).png)
+![Task](Task.png)
 
 ## Purpose
 
