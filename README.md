@@ -20,7 +20,7 @@ Designed to improve workflow efficiency for real estate teams by organizing clie
 
 ### Dashboard Home
 
-"Dashboard" (Screenshot (90).png)
+![Dashboard] (Screenshot(90).png)
 
 ### Leads Page
 
