@@ -20,19 +20,19 @@ Designed to improve workflow efficiency for real estate teams by organizing clie
 
 ### Dashboard Home
 
-"Dashboard" (Screenshot(90).png)
+"Dashboard" (Screenshot (90).png)
 
 ### Leads Page
 
-"Leads" (Screenshot(91).png)
+"Leads" (Screenshot (91).png)
 
 ### Properties Page
 
-"Properties" (Screeshot(92).png)
+"Properties" (Screeshot (92).png)
 
 ### Tasks Page
 
-"Tasks" (Screenshot(93).png)
+"Tasks" (Screenshot (93).png)
 
 🛠 Tools
 
