@@ -33,13 +33,13 @@ Track daily work, follow-ups, and team activities.
 ## 📸 Design Preview
 
 ### Dashboard
-![Dashboard] (screenshot(90).png)
+![Dashboard](Screenshot(90).png)
 
 ### Leads Section
-![Leads] (screenshot(91).png)
+![Leads](Screenshot(91).png)
 
 ### Properties Section
-![Properties](screenshot(92).png)
+![Properties](Screenshot(92).png)
 
 ### Task Section
 ![Task](Task.png)
