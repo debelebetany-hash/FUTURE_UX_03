@@ -33,7 +33,8 @@ Track daily work, follow-ups, and team activities.
 ## 📸 Design Preview
 
 ### Dashboard
-![Dashboard](Screenshot(90).png)
+![Dashboard](<img width="1366" height="768" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/7a7753f0-b5b0-486b-aabd-ab38c6ee531c" />
+)
 
 ### Leads Section
 ![Leads](Screenshot(91).png)
